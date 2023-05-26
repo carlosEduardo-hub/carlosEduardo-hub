@@ -1,5 +1,4 @@
 # Hi there 👋
-
 ## Hey Dev! I'm Carlos Eduardo
 
 <!--
