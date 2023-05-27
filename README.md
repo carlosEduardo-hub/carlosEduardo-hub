@@ -40,8 +40,10 @@ Hey Dev! I'm Carlos Eduardo
   <details>
    <summary>🎖️ Certifications</summary>
    <ul>
-    <li></li>
-    <li></li>
+    <li>Certificado Maratona-premiada Kenzie Academy</li>
+    <li>Certificado_PROEX Introdução a Git e ao Github</li>
+     <li>Certificado_PROEX Introdução à programação com Python</li>
+     <li>Certificado de participação do seminário Hardware Livre Brasil-Espanha</li>
    </ul>
   </details>
  </div>
