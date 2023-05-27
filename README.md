@@ -54,8 +54,7 @@ Hey Dev! I'm Carlos Eduardo
  </div>
 </div>
 
-![Snake animation]
-(https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **carlosEduardo-hub/carlosEduardo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
