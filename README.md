@@ -7,8 +7,13 @@ Hey Dev! I'm Carlos Eduardo
 - 🏋️‍♂️ Gym for passion
 
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&theme=radical)](https://github.com/carlosEduardo-hub/github-readme-stats)
+<a href="https://github.com/carlosEduardo-hub">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   </a>
+  <a href="https://github.com/carlosEduardo-hub">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+  
 #
 ### 🛠 Knowledge in
 <img align="right" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47vgxjiggydghkya94vwy1a4d0iufzcoskcv18iuu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="230"/>
@@ -48,6 +53,7 @@ Hey Dev! I'm Carlos Eduardo
   </details>
  </div>
 </div>
+
 
 
 <!--
