@@ -9,10 +9,10 @@ Hey Dev! I'm Carlos Eduardo
 #
 <a href="https://github.com/carlosEduardo-hub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   </a>
-  <a href="https://github.com/carlosEduardo-hub">
+</a>
+<a href="https://github.com/carlosEduardo-hub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+</a>
   
 #
 ### 🛠 Knowledge in
@@ -54,7 +54,7 @@ Hey Dev! I'm Carlos Eduardo
  </div>
 </div>
 
-
+![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **carlosEduardo-hub/carlosEduardo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
