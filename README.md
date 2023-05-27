@@ -40,8 +40,8 @@ Hey Dev! I'm Carlos Eduardo
   <details>
    <summary>🎖️ Certifications</summary>
    <ul>
-    <li><a href="https://www.hackerrank.com/certificates/b2708df3160c">JavaScript (Intermediate) Certificate by HackerRank</a></li>
-    <li><a href="https://www.hackerrank.com/certificates/9bc05b1a074a">Rest API (Intermediate) Certificate by HackerRank</a></li>
+    <li></li>
+    <li></li>
    </ul>
   </details>
  </div>
