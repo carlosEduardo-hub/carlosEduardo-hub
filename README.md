@@ -2,7 +2,7 @@
 Hey Dev! I'm Carlos Eduardo
 
 - 💻 I’m currently studying Computer Science
-- 🔭 Learning and practicing Python,Flask and Django
+- 🔭 Practicing React,Node JS,Postgree.
 - ⚡ I want to become a fullStack developer
 - 🏋️‍♂️ Gym for passion
 
