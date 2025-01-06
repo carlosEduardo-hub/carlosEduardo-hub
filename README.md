@@ -2,7 +2,8 @@
 Hey Dev! I'm Carlos Eduardo
 
 - 💻 I’m currently studying Computer Science
-- 🔭 Practicing React,React Native,Node JS,Postgree.
+- Frontend developer in Piauí security secretariat projects (SSP-PI)
+- 🔭 Practicing NextJS,React,React Native,Node JS.
 - ⚡ I want to become a fullStack developer
 - 🏋️‍♂️ Gym for passion
   
@@ -33,11 +34,17 @@ Hey Dev! I'm Carlos Eduardo
   <img align="center" alt="carlos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="carlos-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="carlos-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="carlos-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          
 </div>
 
 #
 ### 🧠 Learning
 <div style="display: inline_block"><br>
+
+  
+  <img align="center" alt="carlos-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+          
        
   <img align="center" alt="carlos-postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">    
             
@@ -62,7 +69,7 @@ Hey Dev! I'm Carlos Eduardo
 
 
 
-![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **carlosEduardo-hub/carlosEduardo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
