@@ -17,7 +17,10 @@ Hey Dev! I'm Carlos Eduardo
 <a href="https://github.com/carlosEduardo-hub">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical"/>
 </a>
-  
+<a href="https://github.com/carlosEduardo-hub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosEduardo-hub&theme=radical"/>
+</a>
+
 #
 ### 🛠 Knowledge in
 <img align="right" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47vgxjiggydghkya94vwy1a4d0iufzcoskcv18iuu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="230"/>
