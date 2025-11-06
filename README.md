@@ -2,9 +2,9 @@
 Hey Dev! I'm Carlos Eduardo
 
 - 💻 I’m currently studying Computer Science
-- Frontend developer in Piauí security secretariat projects (SSP-PI)
-- 🔭 Practicing NextJS,React,React Native,Node JS.
-- ⚡ I want to become a fullStack developer
+- Full Stack developer in Piauí security secretariat projects (SSP-PI)
+- 🔭 Experience in NextJS,React,React Native,Node JS.
+- ⚡ I want to develop solutions
 - 🏋️‍♂️ Gym for passion
   
 #
