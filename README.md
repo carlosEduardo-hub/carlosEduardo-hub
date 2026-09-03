@@ -1,8 +1,8 @@
 # Hi there 👋, 
 Hey Dev! I'm Carlos Eduardo
 
-- 💻 I’m currently studying Computer Science
-- Full Stack developer in Piauí security secretariat projects (SSP-PI)
+- 💻 I'm a software engineer with a degree in Computer Science.
+- Full Stack developer in Piauí security secretariat projects (SSP-PI) and FAPEPI (Piauí Research Support Foundation)
 - 🔭 Experience in NextJS,React,React Native,Node JS.
 - ⚡ I want to develop solutions
 - 🏋️‍♂️ Gym for passion
