@@ -1,90 +1,130 @@
-# Hi there 👋, 
-Hey Dev! I'm Carlos Eduardo
+# 👋 Hi there, I'm Carlos Eduardo!
 
-- 💻 I'm a software engineer with a degree in Computer Science.
-- Full Stack developer in Piauí security secretariat projects (SSP-PI) and FAPEPI (Piauí Research Support Foundation)
-- 🔭 Experience in NextJS,React,React Native,Node JS.
-- ⚡ I want to develop solutions
-- 🏋️‍♂️ Gym for passion
-  
-#
-- 🔗 [Portfólio](https://carloseduardo-hub.github.io/Portfolio_Dev/) – Link para portfólio Dev
+**Full Stack Developer | Computer Science Graduate | AI Integration & SaaS Development**
 
-#
-<a href="https://github.com/carlosEduardo-hub">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/carlosEduardo-hub">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical"/>
-</a>
-<a href="https://github.com/carlosEduardo-hub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosEduardo-hub&theme=radical"/>
-</a>
+I'm a software developer from Piauí, Brazil, with a degree in Computer Science and hands-on experience building web applications, APIs, data-driven platforms, and AI-powered features.
 
-#
-### 🛠 Knowledge in
-<img align="right" src="https://media0.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47vgxjiggydghkya94vwy1a4d0iufzcoskcv18iuu0&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="230"/>
-<div style="display: inline_block"><br>
-  <img align="center" alt="carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="carlos-Java" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="carlos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="carlos-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="carlos-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="carlos-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="carlos-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="carlos-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-          
+I work across the full development lifecycle, from designing user interfaces and building back-end services to database modeling, testing, deployment, and infrastructure.
+
+- 💻 **Full Stack Development:** React, Next.js, TypeScript, Node.js, and Fastify.
+- 🏛️ **Public Sector Projects:** Developing systems and data platforms for SSP-PI (Piauí Public Security Secretariat) and FAPEPI (Piauí Research Support Foundation).
+- 🚀 **Entrepreneurship:** Co-building [Soul](https://soul.luminacodeltda.com.br/), an AI-powered study platform.
+- 🤖 **AI & Automation:** Integrating LLMs and AI APIs into real-world applications.
+- ☁️ **Infrastructure:** Docker, AWS, Linux, Nginx, and PostgreSQL.
+- ⚡ **Interests:** Software architecture, automation, AI, and building solutions that solve real problems.
+
+## 🚀 Featured Projects
+
+### 🧠 [Soul — AI-Powered Study Platform](https://soul.luminacodeltda.com.br/)
+
+An AI-powered study platform designed to support students through interactive conversations.
+
+- Contributing to the development of a real SaaS product, from application architecture to feature implementation.
+- Building full-stack features with Next.js, TypeScript, and PostgreSQL.
+- Integrating AI capabilities and developing subscription-oriented product features.
+
+### 🛡️ SSP-PI — Public Security Systems
+
+Development of systems for the Piauí Public Security Secretariat, including tools for reporting and monitoring stolen or robbed vehicles.
+
+- Interactive dashboards with maps, charts, tables, and geospatial data.
+- Back-end APIs and database integration.
+- AI-assisted audio transcription and automatic form filling.
+- Technologies: React, Node.js, Fastify, PostgreSQL, Drizzle ORM, and Vitest.
+
+### 📊 FAPEPI — Research Data Platform
+
+Development and deployment of a platform for exploring and analyzing public research and education data.
+
+- Data visualization and analysis using sources such as CAPES, CNPq, and FINEP.
+- Back-end APIs and PostgreSQL integration.
+- Production deployment and configuration involving AWS, Linux, Nginx, and Docker-based workflows.
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
-#
-### 🧠 Learning
-<div style="display: inline_block"><br>
+### Backend & Databases
 
-  
-  <img align="center" alt="carlos-nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-          
-       
-  <img align="center" alt="carlos-postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">    
-            
-  <img align="center" alt="carlos-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-                  
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-#
+### DevOps & Infrastructure
+
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</div>
+
+### Testing
+
+<div>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+</div>
+
+### AI & Automation
+
+<div>
+  <img src="https://img.shields.io/badge/AI_Integrations-412991?style=for-the-badge" alt="AI Integrations"/>
+  <img src="https://img.shields.io/badge/LLMs-5A45FF?style=for-the-badge" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+</div>
+
+## 📈 GitHub Stats
+
 <div align="center">
- <div align="left">
-  <details>
-   <summary>🎖️ Certifications</summary>
-   <ul>
-    <li>Certificado Maratona-premiada Kenzie Academy</li>
-    <li>Certificado_PROEX Introdução a Git e ao Github</li>
-     <li>Certificado_PROEX Introdução à programação com Python</li>
-     <li>Certificado de participação do seminário Hardware Livre Brasil-Espanha</li>
-   </ul>
-  </details>
- </div>
+  <a href="https://github.com/carlosEduardo-hub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosEduardo-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Carlos Eduardo's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/carlosEduardo-hub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosEduardo-hub&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages"/>
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosEduardo-hub&theme=radical" alt="GitHub Profile Summary"/>
+</div>
 
+## 🎓 Certifications & Activities
 
-<!-- ![Snake animation](https://github.com/carlosEduardo-hub/carlosEduardo-hub/blob/output/github-contribution-grid-snake.svg) -->
+<details>
+  <summary>View certifications</summary>
 
-<!--
-**carlosEduardo-hub/carlosEduardo-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Maratona Premiada — Kenzie Academy
+  - Introdução a Git e ao GitHub — PROEX
+  - Introdução à Programação com Python — PROEX
+  - Seminário Hardware Livre Brasil-Espanha — Certificate of Participation
+</details>
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-mendes-de-oliveira/)
+- 🌐 [Portfolio](https://carloseduardo-hub.github.io/Portfolio_Dev/)
+- 🚀 [Soul — AI Study Platform](https://soul.luminacodeltda.com.br/)
+- 🐙 [GitHub](https://github.com/carlosEduardo-hub)
+
+---
+
+*Always learning, building, and turning ideas into software.*
