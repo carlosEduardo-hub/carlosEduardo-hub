@@ -25,12 +25,21 @@ An AI-powered study platform designed to support students through interactive co
 
 ### 🛡️ SSP-PI — Public Security Systems
 
-Development of systems for the Piauí Public Security Secretariat, including tools for reporting and monitoring stolen or robbed vehicles.
+Development of public security solutions for the Piauí Public Security Secretariat (SSP-PI), including vehicle theft monitoring and a digital police report registration system.
 
-- Interactive dashboards with maps, charts, tables, and geospatial data.
-- Back-end APIs and database integration.
-- AI-assisted audio transcription and automatic form filling.
-- Technologies: React, Node.js, Fastify, PostgreSQL, Drizzle ORM, and Vitest.
+**🚔 Police Report Registration System**
+- **Digital Report Registration:** Interface for creating and managing police reports (Boletins de Ocorrência).
+- **AI-Powered Audio Transcription:** Converts audio recordings into text to streamline report creation.
+- **Intelligent Form Autofill:** Uses AI to extract relevant information from transcriptions and automatically populate report fields.
+- **Report History:** Access to previously registered reports and their details.
+- **Full-Stack Architecture:** React frontend, Fastify backend following Clean Architecture principles, and PostgreSQL database integration using Drizzle ORM.
+- **Automated Testing:** Unit tests with Vitest.
+
+**📊 Stolen Vehicle Monitoring Dashboard**
+- Interactive dashboards with charts, tables, maps, and geospatial data.
+- Visualization and analysis of stolen and robbed vehicle statistics.
+
+**Technologies:** React, TypeScript, Fastify, Node.js, PostgreSQL, Drizzle ORM, Docker, and Vitest.
 
 ### 📊 FAPEPI — Research Data Platform
 
