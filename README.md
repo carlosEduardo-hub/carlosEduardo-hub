@@ -41,13 +41,14 @@ Development of public security solutions for the Piauí Public Security Secretar
 
 **Technologies:** React, TypeScript, Fastify, Node.js, PostgreSQL, Drizzle ORM, Docker, and Vitest.
 
-### 📊 FAPEPI — Research Data Platform
+### 📊 [FAPEPI — Public Research Data Platform](https://dados.fapepi.pi.gov.br/)
 
-Development and deployment of a platform for exploring and analyzing public research and education data.
+Development and deployment of a **public platform** for exploring, visualizing, and analyzing research and education data, providing open access to information from Piauí's research ecosystem.
 
-- Data visualization and analysis using sources such as CAPES, CNPq, and FINEP.
-- Back-end APIs and PostgreSQL integration.
-- Production deployment and configuration involving AWS, Linux, Nginx, and Docker-based workflows.
+- **Public Data Access:** Provides researchers, students, and society with access to research and education data.
+- **Data Visualization:** Interactive dashboards for exploring and analyzing data from CAPES, CNPq, and FINEP.
+- **Back-end Development:** REST APIs and PostgreSQL database integration.
+- **Infrastructure & Deployment:** Production deployment and configuration involving AWS, Linux, Nginx, and Docker-based workflows.
 
 ## 🛠️ Tech Stack
 
