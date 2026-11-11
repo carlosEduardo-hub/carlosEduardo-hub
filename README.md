@@ -13,6 +13,23 @@ I work across the full development lifecycle, from designing user interfaces and
 - ☁️ **Infrastructure:** Docker, AWS, Linux, Nginx, and PostgreSQL.
 - ⚡ **Interests:** Software architecture, automation, AI, and building solutions that solve real problems.
 
+## 🔗 Connect with Me
+
+<div>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-mendes-de-oliveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://carloseduardo-hub.github.io/Portfolio_Dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/carlosEduardo-hub" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://soul.luminacodeltda.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Soul_SaaS-6C47FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Soul SaaS"/>
+  </a>
+</div>
+
 ## 🚀 Featured Projects
 
 ### 🧠 [Soul — AI-Powered Study Platform](https://soul.luminacodeltda.com.br/)
