@@ -40,7 +40,7 @@ An AI-powered study platform designed to support students through interactive co
 - Building full-stack features with Next.js, TypeScript, and PostgreSQL.
 - Integrating AI capabilities and developing subscription-oriented product features.
 
-### 🛡️ SSP-PI — Public Security Systems
+### 🛡️ [SSP-PI — Public Security Systems](https://sistema-registro-bo.vercel.app/)
 
 Development of public security solutions for the Piauí Public Security Secretariat (SSP-PI), including vehicle theft monitoring and a digital police report registration system.
 
